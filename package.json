@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.3",
-    "request": "^2.79.0",
+    "request": "^2.87.0",
     "requestify": "^0.2.5"
   }
 }
